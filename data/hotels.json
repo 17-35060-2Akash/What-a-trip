@@ -1,0 +1,83 @@
+[
+    {
+        "category_id": "01",
+        "name": "Agatha Villa, Venice",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 4.3,
+        "price": 40
+    },
+    {
+        "category_id": "01",
+        "name": "Magdonald's Place, Venice",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Couple",
+        "beds": 1,
+        "ratings": 8.3,
+        "price": 37
+    },
+    {
+        "category_id": "01",
+        "name": "Bullevard, Venice",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 5.4,
+        "price": 41
+    },
+    {
+        "category_id": "02",
+        "name": "Radisson Blue, Bali",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Couple",
+        "beds": 1,
+        "ratings": 4.7,
+        "price": 39
+    },
+    {
+        "category_id": "02",
+        "name": "Meroon Silver, Venice",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 6.4,
+        "price": 42
+    },
+    {
+        "category_id": "02",
+        "name": "Bullevard, Venice",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 5.4,
+        "price": 40
+    },
+    {
+        "category_id": "03",
+        "name": "Suavrbek Mantion, Zurich",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 5.8,
+        "price": 49
+    },
+    {
+        "category_id": "03",
+        "name": "Zurich Continental, Zurich",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Family",
+        "beds": 2,
+        "ratings": 6.5,
+        "price": 30
+    },
+    {
+        "category_id": "03",
+        "name": "Menchester Grace, Zurich",
+        "image": "https://drive.google.com/drive/u/0/folders/1MMs-LWz0fxvEojoBM_WwDbRI7Ah6EK8h",
+        "categoryname": "Couple",
+        "beds": 1,
+        "ratings": 7.3,
+        "price": 33
+    }
+]

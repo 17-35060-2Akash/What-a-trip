@@ -1,20 +1,26 @@
 [
     {
         "id": 1,
+        "category_id": "01",
         "name": "Venice, Italy",
         "details": "Venice is a city in northeastern Italy and the capital of the Veneto region. Known as the 'City of Canals' there are many things Venice is famous for including its beautiful bridges, gondola rides, atmospheric streets and carnival celebrations. Built over 118 islands, Venice and its lagoon is one of the most unique cities in the world.",
-        "img": "https://handluggageonly.co.uk/wp-content/uploads/2015/05/HandLuggageOnly-41.jpg"
+        "img": "https://images.squarespace-cdn.com/content/v1/5ede0df358851067a6a1c845/1591825710990-KPTBRRO6998315LW5XCP/Gondola+-+Free+Things+to+do+Venice",
+        "map": "https://maps.google.com/maps?q=venice&t=&z=13&ie=UTF8&iwloc=&output=embed"
     },
     {
         "id": 2,
+        "category_id": "02",
         "name": "Bali, Indonesia",
         "details": "Also known as the Land of the Gods, Bali appeals through its sheer natural beauty of looming volcanoes and lush terraced rice fields that exude peace and serenity. It is also famous for surfers' paradise!Bali is a super budget-friendly destination, so it's pretty easy to visit the island and not have to worry about breaking the bank. ",
-        "img": "https://iconosmag.com/wp-content/uploads/2018/06/Bali-Indonesia-1-825x1024.jpg"
+        "img": "https://iconosmag.com/wp-content/uploads/2018/06/Bali-Indonesia-1-825x1024.jpg",
+        "map": "https://maps.google.com/maps?q=Bali&t=&z=13&ie=UTF8&iwloc=&output=embed"
     },
     {
         "id": 3,
+        "category_id": "03",
         "name": "Zurich, Switzerland",
         "details": "Zurich is often at the top of any Switzerland itinerary. As the financial capital of the country, the largest city in Switzerland, and a picturesque setting on Lake Zurich and the Limmat River there are plenty of things to keep you busy. 3 days in Zurich is just enough time to experience it all.On one hand, it's perfectly easy to see Zurich in 3 days",
-        "img": "https://i.pinimg.com/736x/d7/87/02/d78702a21c42e576223e424c30c85337.jpg"
+        "img": "https://i.pinimg.com/736x/d7/87/02/d78702a21c42e576223e424c30c85337.jpg",
+        "map": "https://maps.google.com/maps?q=Zurich&t=&z=13&ie=UTF8&iwloc=&output=embed"
     }
 ]
